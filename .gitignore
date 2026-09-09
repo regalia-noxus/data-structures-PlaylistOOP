@@ -1,0 +1,21 @@
+# Hasil kompilasi Java
+*.class
+bin/
+build/
+out/
+
+# Konfigurasi VS Code
+.vscode/
+
+# Konfigurasi Eclipse
+.project
+.classpath
+.settings/
+
+# Konfigurasi IntelliJ IDEA
+.idea/
+*.iml
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
