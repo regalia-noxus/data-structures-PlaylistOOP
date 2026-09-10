@@ -3,7 +3,7 @@
 // =====================================
 
 // class lagu berfungsi untuk merepresentasikan entitas data lagu
-class Lagu {
+public class Lagu {
     // Enkapsulasi: Atribut dibuat private agar tidak bisa diakses langsung dari luar class
     private String judul;
     private String artis;
