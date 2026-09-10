@@ -1,7 +1,3 @@
-// =====================================
-// ANGGOTA 1: Class Lagu
-// =====================================
-
 // class lagu berfungsi untuk merepresentasikan entitas data lagu
 public class Lagu {
     // Enkapsulasi: Atribut dibuat private agar tidak bisa diakses langsung dari luar class
